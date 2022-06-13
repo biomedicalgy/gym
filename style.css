@@ -1,0 +1,179 @@
+
+.logo{
+    float: left;
+    color: hotpink;
+}
+.navbar{
+    float: right;
+ 
+    margin-right: 10px;
+}
+.header{
+    height: 100vh;
+    width: 100vw;
+    background-image: url("1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 20px;}
+    body{
+        overflow-x: hidden;
+    }
+    .io{
+        height: 40px;
+        width: 40px;
+    }
+    
+a{
+    color: rgb(95, 90, 90);
+    text-decoration: none;
+    margin: 20px;
+}
+a:hover{
+    color: hotpink;
+}
+.btn{
+height: 60px;
+width: 120px;
+border-radius: 80px;
+color: white;
+padding: 10px;
+border: 1px solid rgb(192, 188, 188);
+background-color: hotpink;
+color: white;
+}
+.btn:hover{
+
+    color: black;
+    
+    background-color: rgb(255, 255, 255); 
+}
+
+.byn:hover{
+    color: rgb(255, 255, 255);
+   
+background-color: hotpink;
+}
+.btn{
+    position: absolute;
+    bottom: 100px;
+    left: 300px;
+}
+
+.byn{
+    position: absolute;
+    bottom: 100px;
+    left: 500px;
+    height: 60px;
+    width: 120px;
+    border-radius: 80px;
+    color: rgb(8, 6, 6);
+    padding: 10px;
+    border: 1px solid rgb(192, 188, 188);
+    background-color: rgb(255, 244, 244);
+    }
+
+    .head{
+        height: 300px;
+        width: 100vw;
+        padding-top: 200px;
+        color: white;
+        background-color: rgb(214, 88, 88);
+    }
+.align{
+    text-align: center;
+}
+.container{
+    height: 500px;
+    width: 100vw;
+    background-color: rgb(255, 127, 176);
+}
+.opk{
+    height: 100vh;
+    width: 100vw;background-color: rgb(240, 106, 128);
+}
+.left{
+    float: left;
+    height: 500px;
+    width: 600px;
+}
+.left,.right{
+    margin: 5px;
+}
+.right{
+    height: 100vh;
+    width: 50vw;
+    float: right;
+    
+}
+.box{
+    text-align: center;
+ margin-top: 40px;
+    padding: 10px;
+    height: 300px;
+    width: 300px;
+    float: left;
+}
+
+.px{
+    height: 500px;
+    width: 600px;
+}
+.uu{
+    height: 400px;
+    width: 450px;
+}
+.opx{
+    height: 300px;width: 300px;
+    float: left;
+}
+.nontainer{
+background-color: hotpink;
+    height: 600px; width: 100vw;
+}
+body{
+    overflow-x: hidden;
+}
+.alig{
+    margin-left: 600px;
+}
+.occasion{
+    height: 300px;
+    width: 100vw;background-image: url("3.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+.bn{
+    height: 60px;
+    margin-left: 600px;
+    width: 120px;
+    border-radius: 80px;
+    color: white;
+    background-color: hotpink;
+    padding: 10px;border: none;
+
+}
+.bn:hover{
+    color: red;
+    background-color: white;
+
+}
+.footer{
+    height: 500px;
+    color: white;
+    width: 100vw;
+    background-color: rgb(31, 18, 24);
+}
+.lop{
+
+    height: 30px ;
+    width: 30px;
+}
+.foo{float: left;
+height: 100px;
+width: 150px;
+margin: 100px;}
+div,div{
+    margin: 20px;
+}
